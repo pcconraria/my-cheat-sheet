@@ -1,0 +1,27 @@
+html{
+    background-color: white;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+td, th{
+    padding: 30px;
+    text-align: left;
+}
+
+tbody tr:hover{ /* quando poes o rato por cima o texto fica destacado*/
+    color: blue;
+}
+
+.footer {
+    font-size: 0.9vw;
+}
+
+#link:hover {
+    text-decoration: none;
+}
+
+#link:active {
+    color: #DBE9EE;
+  }
