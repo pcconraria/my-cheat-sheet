@@ -18,10 +18,26 @@ tbody tr:hover{ /* quando poes o rato por cima o texto fica destacado*/
     font-size: 0.9vw;
 }
 
+#link {
+    color: rgb(59, 181, 238);
+}
+
 #link:hover {
     text-decoration: none;
 }
 
 #link:active {
+    color: #DBE9EE;
+}
+
+#link2 {
+    color: rgb(59, 181, 238);
+}
+
+#link2:hover {
+    text-decoration: none;
+}
+
+#link2:active {
     color: #DBE9EE;
   }
